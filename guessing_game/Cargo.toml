@@ -1,0 +1,11 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# rand is a library crate.
+# 0.8.3 is actually a shortand for ^0.8.3 i.e any version >= 0.8.3 but < 0.9.0
+rand = "0.8.3"

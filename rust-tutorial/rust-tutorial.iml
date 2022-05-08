@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUST_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/datatypes/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/print/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/operators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/conditionals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/strings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/vectors/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/print/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/datatypes/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/operators/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/conditionals/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/loops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/strings/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/vectors/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
